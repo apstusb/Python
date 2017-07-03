@@ -2,3 +2,6 @@ Programming is fun
 When the work is done
 if you wanna make your work also fun:
 use Python!
+
+Git is a distributed version control system.
+Git is free software.
